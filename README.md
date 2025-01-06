@@ -2,5 +2,4 @@
 Mind Terminal Generator @ Experimental 
 
 
-https://github.com/user-attachments/assets/a66d7ebd-e3b4-4146-96e6-4d3f698f145e
-
+![Screenshot 2025-01-05 180354](https://github.com/user-attachments/assets/abac19c3-9156-4a58-b628-479cb2eb367b)
